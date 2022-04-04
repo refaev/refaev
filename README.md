@@ -1,21 +1,6 @@
 ### Hi there 👋
 
-<!--
-**refaev/refaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-DR. REFAEL VIVANTI
+I'm DR. REFAEL VIVANTI
 
 Email: vivanti@gmail.com
 
@@ -134,3 +119,12 @@ in follow-up CT scans: preliminary method and results. In International workshop
 studies. International journal of computer assisted radiology and surgery, 10(9), pp.1505-1514.
 Faria, C., Sadowsky, O., Bicho, E., Ferrigno, G., Joskowicz, L., Shoham, M., Vivanti, R. and De Momi, E., 2014. Validation of a stereo
 camera system to quantify brain deformation due to breathing and pulsatility. Medical physics, 41(11), p.113502. 
+
+VOLUNTEERING:
+
+I started and admining some large technical communities in Israel with more than 5K local experts:
+[Computer Vision Israel](https://www.facebook.com/groups/1831991027038183)
+[Reinforcement Learning Israel](https://www.facebook.com/groups/296455247734778)
+[Bioinformatics Israel](https://www.facebook.com/groups/310913430039222)
+
+I'm also admining [jobsJLM](https://www.facebook.com/groups/jobsJLM)to help promote the hi-teck industry in my city Jeruslaem. 
