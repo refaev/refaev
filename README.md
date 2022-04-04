@@ -26,7 +26,7 @@ LinkedIn: [Refael Vivanti](https://www.linkedin.com/in/dr-refael-vivanti-5733663
 
 PROFILE:
 
-I do R&D in Reinforcement Learning, Deep Learning, SLAM and Computer Vision in Rafael ltd.
+I do R&D in Reinforcement Learning, Deep Learning, SLAM and Computer Vision. Currently I'm at Meta and. HUJI.
 
 EXPERIENCE
 
