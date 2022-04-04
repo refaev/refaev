@@ -144,3 +144,7 @@ I started and admining some large technical communities in Israel with more than
 [Bioinformatics Israel](https://www.facebook.com/groups/310913430039222)
 
 I'm also admining [jobsJLM](https://www.facebook.com/groups/jobsJLM) to help promote the hi-teck industry in my city Jeruslaem. 
+
+### POSTS:
+
+[reinforcement-learning-is-full-of-manipulative-consultants](https://towardsdatascience.com/reinforcement-learning-is-full-of-manipulative-consultants-4ee39cd7e0f8)
