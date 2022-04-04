@@ -21,7 +21,7 @@ Email: vivanti@gmail.com
 
 phone: +972542566063
 
-LinkedIn: [Refael Vivanti] (https://www.linkedin.com/in/dr-refael-vivanti-57336637/)
+LinkedIn: [Refael Vivanti](https://www.linkedin.com/in/dr-refael-vivanti-57336637/)
 
 
 PROFILE:
